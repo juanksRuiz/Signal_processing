@@ -1,0 +1,22 @@
+entrega 2 para el 3 de abril:
+
+PRESENTACION DE 30 MIN:
+- Descripción del pipeline de la implementacion
+
+Preprocesamiento con ruido, luz
+
+Extraccion de la cara
+
+Seleccionar elementos de la cara
+
+identificar el heart rate
+
+Representacion con diagrama de bloques
+
+- Implementacion basica preliminar
+ya tengo imagenes
+segmentacion de imagenes
+extraccion de colores
+
+- Trabajo futuro
+- Evaluar el cronograma iniciar y colocar los cambios que hay
